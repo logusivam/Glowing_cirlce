@@ -3,6 +3,7 @@
 This project demonstrates how to create a glowing circle with alphabets arranged in a clock-like structure using HTML and CSS. Each letter of the alphabet is positioned around the circumference of the circle, and the circle glows with a neon-like effect.
 
 ## Demo
+![Screenshot 2024-05-28 150906](https://github.com/logusivam/Glowing_cirlce/assets/106108501/6ff1903d-93d4-4ffa-8db1-ba8ebd01c412)
 
 You can see a live demo of the project [here](https://logusivam.github.io/Glowing_cirlce/).
 
