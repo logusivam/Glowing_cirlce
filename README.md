@@ -7,6 +7,8 @@ This project demonstrates how to create a glowing circle with alphabets arranged
 
 You can see a live demo of the project [here](https://logusivam.github.io/Glowing_cirlce/).
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Features
 
 - **Glowing Circle**: The circle has a neon-like glow effect.
